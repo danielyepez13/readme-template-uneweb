@@ -43,9 +43,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Daniel Yépez**
 
-- GitHub: [@aristides1000](https://github.com/danielyepez13)
+- GitHub: [@danielyepez13](https://github.com/danielyepez13)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-yepez/)
 
 👤 **Author2**
